@@ -1,0 +1,3 @@
+# Optional dev requirements. ROS2 packages are NOT installed via pip.
+pytest
+py_trees
